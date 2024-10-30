@@ -1,5 +1,2 @@
 mountpoints:
   /: https://adobe.sharepoint.com/:f:/r/sites/storecontents/Shared%20Documents/store1
-  
-folders:
-  /store1/: /products/default
