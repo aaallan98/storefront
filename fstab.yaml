@@ -1,5 +1,4 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
-
+  /: https://adobe.sharepoint.com/:f:/s/storecontents/EtZpPkr_p_5GoVa8jbriLiYBSjn70KfM9pmoQCcnutwIZw?email=aawanchiri%40adobe.com&e=ZAQ85w
 folders:
   /products/: /products/default
