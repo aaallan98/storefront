@@ -1,4 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/s/storecontents/EtZpPkr_p_5GoVa8jbriLiYBSjn70KfM9pmoQCcnutwIZw?email=aawanchiri%40adobe.com&e=ZAQ85w
+  /: https://adobe.sharepoint.com/:f:/r/sites/storecontents/Shared%20Documents/store1?csf=1&web=1&e=Zf7fJu
+  
 folders:
   /products/: /products/default
